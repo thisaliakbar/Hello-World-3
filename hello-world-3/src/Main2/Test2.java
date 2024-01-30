@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class Test2 {
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("Data Mahasiswa");
         Scanner scan = new Scanner(System.in);
         System.out.print("Masukkan Nama Anda \t\t: ");
         String name = scan.nextLine();
