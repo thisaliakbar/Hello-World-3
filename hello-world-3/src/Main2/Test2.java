@@ -29,6 +29,8 @@ public class Test2 {
         System.out.println("Tempat Lahir : " + placeBorn);
         System.out.println("Tanggal Lahir : " + born);
         
+        System.out.println("Data Prestasi Mahasiswa");
+        
     }
     
 }
